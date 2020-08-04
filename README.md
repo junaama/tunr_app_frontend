@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/Wj4Yg08.png" width="600px" />
 
-# Ruby on Rails Lab
+# Ruby on Rails Mini Project
 
 For this lab, your goal is to build a simple CRUD app with Ruby on Rails on the back-end and React on the front-end.
 
