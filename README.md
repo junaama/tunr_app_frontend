@@ -37,19 +37,16 @@ Your app will need to replicate the functionality and style of the Tunr image ab
 - Allow users to remove the song from the playlist
 
 ## Bonus
-
-Add another model as a sub-document. Finish full CRUD on your first model before
-adding a subdocument. Make it so users can perform full CRUD on the
-sub-document.
-
-## Double Bonus
-
-Deploy your app. Use Heroku for the backend and Surge or Netlify for the frontend. 
-
-## Triple Bonus
 - Add a User Model (no auth unless you want to go above and beyond)
 - Have a User be able to create a Playlist
 - Create a User profile to display various playlists
+
+## Double Bonus
+Deploy your app. Use Heroku for the backend and Surge or Netlify for the frontend. 
+
+## Triple Bonus
+- Refactor your components into styled components
+- Style your front end to portfolio quality (responsive, unique... etc)
 
 ## Presentation
 Don't forget: a **technical demonstration** of your app which:
