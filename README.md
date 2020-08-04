@@ -46,6 +46,10 @@ sub-document.
 
 Deploy your app. Use Heroku for the backend and Surge or Netlify for the frontend. 
 
+## Triple Bonus
+- Add a User Model (no auth unless you want to go above and beyond)
+- Have a User be able to create a Playlist
+- Create a User profile to display various playlists
 
 ## Presentation
 ALSO, don't forget: a **technical demonstration** of your app which:
@@ -57,8 +61,7 @@ ALSO, don't forget: a **technical demonstration** of your app which:
   * Explains the technical challenges
   * Explains which improvements you might make
 
+<hr>
 
-```sh
-npm init
-```
-
+## Submission Guidelines
+&#10004; Submit your project via [this google form](https://docs.google.com/forms/d/e/1FAIpQLSezWVG8OLr6ZxmRNOwZ6xsoYO5lu_7L1LTWA3X6iclG4iG_Hw/viewform)
