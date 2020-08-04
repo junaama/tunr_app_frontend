@@ -52,7 +52,7 @@ Deploy your app. Use Heroku for the backend and Surge or Netlify for the fronten
 - Create a User profile to display various playlists
 
 ## Presentation
-ALSO, don't forget: a **technical demonstration** of your app which:
+Don't forget: a **technical demonstration** of your app which:
 
   * Is ~5 minutes in length
   * Shows off all features of the app
