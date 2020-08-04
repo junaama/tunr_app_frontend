@@ -55,7 +55,6 @@ Deploy your app. Use Heroku for the backend and Surge or Netlify for the fronten
 ALSO, don't forget: a **technical demonstration** of your app which:
 
   * Is ~5 minutes in length
-  * All group members should speak during the presentation
   * Shows off all features of the app
   * Explains the technical details
   * Explains the technical challenges
