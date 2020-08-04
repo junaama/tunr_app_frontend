@@ -26,7 +26,7 @@ The frontend and the backend should be in two separate folders. They will each n
 
 ## Requirements
 
-Build a simple CRUD/ROR app! Keep it very simple: **only** 1 model with full CRUD.
+Build a simple CRUD/RoR app! Keep it very simple: **only** 1 model with full CRUD.
 
 Your app will need to replicate the functionality and style of the Tunr image above. The app should:
 
