@@ -38,6 +38,9 @@ class SongsController < ApplicationController
     @song.destroy
   end
 
+  def toggle_active
+    @song.toggle!(:active)
+  end
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_song
@@ -46,6 +49,6 @@ class SongsController < ApplicationController
 
     # Only allow a trusted parameter "white list" through.
     def song_params
-      params.require(:song).permit(:title, :artist, :time)
+      params.require(:song).permit(:title, :artist, :time, :favorite)
     end
 end
